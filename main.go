@@ -5,9 +5,9 @@ import (
 )
 
 func main() {
-	fmt.Println("Learn Go Language by Hello World")
+	fmt.Println("Radhe Radhe!")
 
-	// var name string = "Prince"
+	// var name string = "Radha"
 	// var version = 76
 	// fmt.Println(name)
 	// fmt.Println(version)
@@ -31,8 +31,8 @@ func main() {
 	// fmt.Println(pi)
 
 
-	person := "Prince Agarwal"
-	fmt.Println(person)
+	god := "Radha"
+	fmt.Println(god)
 
 
 	var Public = "data is important"
